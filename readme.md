@@ -1,7 +1,7 @@
 
 # Eat-Da-Burger!
 
-Click Here to Visit my Website: [https://juliajyshin.github.io/burger/](https://juliajyshin.github.io/burger/)
+Click Here to Visit my Website: [http://designstormss.fun/](http://designstormss.fun/)
 
 ## Project Description
 
