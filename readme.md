@@ -20,5 +20,5 @@ This Project was designed in PHP using the framework Laravel and SQL using phpmy
 * HTML5
 
 ## Author
-* https://github.com/juliajyshin
-* [Buy me a coffee ☕️](https://ko-fi.com/juliajverie)
+* https://github.com/Blaijon
+
