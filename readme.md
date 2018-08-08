@@ -10,10 +10,14 @@ This Project was designed in PHP using the framework Laravel and SQL using phpmy
 ![An image of the app](http://blaijonheads.com/images/macbook3.jpg)
 
 ## Technologies
-* Node.js
-* MySQL
-* Handelbars
-* HTML
+* Laravel
+* SQL
+* Javascript
+* jQuery
+* PHP
+* jQuery
+* CSS3
+* HTML5
 
 ## Author
 * https://github.com/juliajyshin
