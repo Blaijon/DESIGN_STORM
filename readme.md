@@ -1,11 +1,11 @@
 
-# Eat-Da-Burger!
+# DesignStorm!
 
 Click Here to Visit my Website: [http://designstormss.fun/](http://designstormss.fun/)
 
 ## Project Description
 
-Eat-Da-Burger! is a restaurant app that lets users input the names of the burgers they'd like to eat, then devour them. This application uses MVC design pattern; Node and MySQL to query and route data into app, and Handlebars to generate the HTML. 
+This Project was designed in PHP using the framework Laravel and SQL using phpmyadmin database. It has login and logout capablities and uses the behance restful api to grab the images you search for.
 
 ![An image of the app](https://github.com/juliajyshin/burger/blob/master/public/assets/img/burger-app.png?raw=true)
 
